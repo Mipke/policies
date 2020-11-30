@@ -1,3 +1,5 @@
+# Privacy Policy
+
 *Last updated: November 30, 2020*
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data: never have, never will.
