@@ -1,12 +1,12 @@
 # Terms of Service
 
-*Last updated: November 30, 2020*
+*Last updated: December 11, 2020*
 
 From everyone at Mipke LLC, thank you for using our products. We build them to help you do your best work. There are many people using Mipke LLC products every day. Because we don't know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.
 
 When we say “Company”, “we”, “our”, or “us” in this document, we are referring to Mipke LLC.
 
-When we say “Services”, we mean any product created and maintained by Mipke LLC. That includes Mipke Academy, The Investor, Praxly, and Local Tax Ledger, whether delivered within a web browser, desktop application, mobile application, or another format.
+When we say “Services”, we mean any product created and maintained by Mipke LLC. That includes Mipke Academy, The Investor, Charts.xyz, Praxly, and Local Tax Ledger, whether delivered within a web browser, desktop application, mobile application, or another format.
 
 When we say “You” or “your”, we are referring to the people or organizations that own an account with one or more of our Services.
 
